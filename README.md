@@ -58,12 +58,14 @@ I am a developer who thrives at the intersection of **clean code** and **high pe
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhananjaiavva&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=dhananjaiavva&theme=dark&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjaiavva&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhananjaiavva&theme=tokyonight&show_icons=true" alt="Dhananjai Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhananjaiavva&theme=tokyonight&layout=compact" alt="Top Langs" height="170" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhananjaiavva&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
+
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=dhananjaiavva&icon=0&color=0" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=dhananjaiavva&color=00f5d4&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Count" />
 </p>
